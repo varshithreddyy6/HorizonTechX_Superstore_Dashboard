@@ -157,7 +157,7 @@ python -m streamlit run app.py
 
 ## Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Superstore Sales Dashboard.jpg)
 
 # Author
 
