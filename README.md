@@ -142,17 +142,6 @@ python -m streamlit run app.py
 - Live API Integration
 
 ---
-
-# Internship Details
-
-| Detail | Information |
-|---|---|
-| Internship | Horizon TechX |
-| Domain | AI & Data Science |
-| Task | Data Visualization Dashboard |
-| Status | Completed |
-
----
 # Project Screenshots
 
 ## Dashboard Overview
