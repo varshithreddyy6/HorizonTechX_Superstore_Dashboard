@@ -153,6 +153,11 @@ python -m streamlit run app.py
 | Status | Completed |
 
 ---
+# Project Screenshots
+
+## Dashboard Overview
+
+![Dashboard](screenshots/dashboard.png)
 
 # Author
 
